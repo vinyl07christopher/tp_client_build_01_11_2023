@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e8e07d3.css",
+    "main.js": "/static/js/main.63ace872.js",
+    "static/media/TPdetector_logo.png": "/static/media/TPdetector_logo.aa8057f33a8e2b86d68b.png",
+    "static/media/Img-3.jpg": "/static/media/Img-3.be737e516bf9c51f441f.jpg",
+    "static/media/20638.jpg": "/static/media/20638.eb89dd6bb390ed1de9d1.jpg",
+    "static/media/Img-2.jpg": "/static/media/Img-2.40d48cb5c0aece99f24c.jpg",
+    "static/media/Img4.jpg": "/static/media/Img4.4ce7488a8555bd677159.jpg",
+    "static/media/lens.webp": "/static/media/lens.49df05dbea8bc9a34432.webp",
+    "index.html": "/index.html",
+    "main.3e8e07d3.css.map": "/static/css/main.3e8e07d3.css.map",
+    "main.63ace872.js.map": "/static/js/main.63ace872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e8e07d3.css",
+    "static/js/main.63ace872.js"
+  ]
+}
